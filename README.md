@@ -1,6 +1,6 @@
 ## port-quest
 
-port-quest is designed to perform network port scanning on a given host. It provides two main functions: scan() and main(). This README will guide you through the app's functionality and provide documentation for these functions.
+port-quest is designed to perform network port scanning on a given host. It provides two main functions: `scan()` and `main()`. This README will guide you through the app's functionality and provide documentation for these functions.
 
 ## Prerequisites
 
